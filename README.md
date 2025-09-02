@@ -1,0 +1,1 @@
+# LGSPose-Language-Guided-6D-Object-Pose-Estimation-via-Scene-Level-Semantic-3D-Gaussian-Splatting
